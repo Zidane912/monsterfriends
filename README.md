@@ -1,4 +1,4 @@
-# robofriends
+# monsterfriends
 Tutorial for React
 To run the project:
 
